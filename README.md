@@ -12,13 +12,13 @@
 
 
 ### 📚 Tech Stack
-OS: Ubuntu, RHEL, Kali
-Cloud Platforms: AWS
-IaC: Terraform, Cloudformation
-CI/CD: Jenkins, Azure DevOps
-Languages: Bash, YAML, Groovy, Python
-Containerization: Docker, Podman, EKS
-Monitoring: Prometheus, Grafana, CloudWatch
+- OS: Ubuntu, RHEL, Kali
+- Cloud Platforms: AWS
+- IaC: Terraform, Cloudformation
+- CI/CD: Jenkins, Azure DevOps
+- Languages: Bash, YAML, Groovy, Python
+- Containerization: Docker, Podman, EKS
+- Monitoring: Prometheus, Grafana, CloudWatch
 
 
 <!---
