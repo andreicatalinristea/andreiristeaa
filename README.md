@@ -1,7 +1,7 @@
 ## Hello, I'm [Andrei Ristea](https://www.linkedin.com/in/andreicatalinristea/)
 
 ### About Me 🚀
-🌱 I’m a DevOps Engineer with a Bachelor of Engineering in Applied Electronics. </br>
+🌱 I’m a DevOps Engineer with 3 years of experience in cloud infrastructure, containerization, and automation. </br>
 👨‍💻  I am passionate about DevSecOps and I enjoy learning new things. </br>
 
 
