@@ -2,7 +2,7 @@
 
 ### About Me 🚀
 🌱 I’m a DevOps Engineer with 3 years of experience in cloud infrastructure, containerization, and automation. </br>
-👨‍💻  I am passionate about DevSecOps and I enjoy learning new things. </br>
+👨‍💻  I am passionate about Networking, Cloud-Native technologies, and designing scalable Cloud architectures. </br>
 
 
 ### My Experiences 🙌
