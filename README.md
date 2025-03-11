@@ -11,6 +11,13 @@
 - [DevOps Consultant (DG TAXUD)](https://commission.europa.eu/about/departments-and-executive-agencies/taxation-and-customs-union_en/) - (Dec'21-Mar'24)
 
 
+### 📚 Tech Stack
+OS: 
+Cloud Platforms: 
+IaC: ![image](https://github.com/user-attachments/assets/c8d44834-a917-4262-a47f-9ca8cd9521a7)
+
+
+
 <!---
 andreiristeaa/andreiristeaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
