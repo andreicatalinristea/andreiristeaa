@@ -1,4 +1,4 @@
-## Hello World, I'm [Andrei Ristea](https://www.linkedin.com/in/andreicatalinristea/)
+## Hello, I'm [Andrei Ristea](https://www.linkedin.com/in/andreicatalinristea/)
 
 ### About Me 🚀
 🌱 I’m a DevOps Engineer with a Bachelor of Engineering in Applied Electronics. </br>
