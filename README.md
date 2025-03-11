@@ -12,10 +12,13 @@
 
 
 ### 📚 Tech Stack
-OS: 
-Cloud Platforms: 
-IaC: ![image](https://github.com/user-attachments/assets/c8d44834-a917-4262-a47f-9ca8cd9521a7)
-
+OS: Ubuntu, RHEL, Kali
+Cloud Platforms: AWS
+IaC: Terraform, Cloudformation
+CI/CD: Jenkins, Azure DevOps
+Languages: Bash, YAML, Groovy, Python
+Containerization: Docker, Podman, EKS
+Monitoring: Prometheus, Grafana, CloudWatch
 
 
 <!---
